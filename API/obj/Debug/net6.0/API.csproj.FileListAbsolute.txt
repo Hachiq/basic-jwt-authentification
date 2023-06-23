@@ -38,3 +38,7 @@ C:\Projects\WebApiAngularJwtAuthentication\API\bin\Debug\net6.0\Microsoft.Identi
 C:\Projects\WebApiAngularJwtAuthentication\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Projects\WebApiAngularJwtAuthentication\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Projects\WebApiAngularJwtAuthentication\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\WebApiAngularJwtAuthentication\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\WebApiAngularJwtAuthentication\API\bin\Debug\net6.0\Scrutor.dll
+C:\Projects\WebApiAngularJwtAuthentication\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Projects\WebApiAngularJwtAuthentication\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
