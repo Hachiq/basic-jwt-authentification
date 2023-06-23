@@ -30,3 +30,11 @@ C:\Projects\WebApiAngularJwtAuthentication\API\obj\Debug\net6.0\refint\API.dll
 C:\Projects\WebApiAngularJwtAuthentication\API\obj\Debug\net6.0\API.pdb
 C:\Projects\WebApiAngularJwtAuthentication\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 C:\Projects\WebApiAngularJwtAuthentication\API\obj\Debug\net6.0\ref\API.dll
+C:\Projects\WebApiAngularJwtAuthentication\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\WebApiAngularJwtAuthentication\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\WebApiAngularJwtAuthentication\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\WebApiAngularJwtAuthentication\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\WebApiAngularJwtAuthentication\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\WebApiAngularJwtAuthentication\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\WebApiAngularJwtAuthentication\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\WebApiAngularJwtAuthentication\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
