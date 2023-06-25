@@ -1,1 +1,12 @@
-<h1>Clear client application</h1>
+<h1>Client authentication</h1>
+<div>
+  Name:
+  <input [(ngModel)]="user.username" placeholder="Name">
+</div>
+<div>
+  Password:
+  <input [(ngModel)]="user.password" placeholder="Password" type="password">
+</div>
+<button (click)="register(user)">Register</button>
+<button (click)="login(user)">Login</button>
+<button (click)="getme()">Get Me</button>
